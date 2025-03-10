@@ -1,7 +1,7 @@
 DESCRIPCIÓN 
 
-     Este proyecto se centra en el análisis de datos de clientes de una aerolínea para obtener información valiosa sobre sus patrones de vuelo, lealtad y datos demográficos. El objetivo principal es comprender mejor a los clientes y proporcionar 
-información útil para mejorar la satisfacción del cliente y la estrategia comercial de la aerolínea.
+     Este proyecto se centra en el análisis de datos de clientes de una aerolínea para obtener información valiosa sobre sus patrones de vuelo, lealtad y datos demográficos. 
+     El objetivo principal es comprender mejor a los clientes y proporcionar información útil para mejorar la satisfacción del cliente y la estrategia comercial de la aerolínea.
 
 ESTRUCTURA 
 
